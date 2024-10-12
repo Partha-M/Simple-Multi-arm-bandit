@@ -1,7 +1,7 @@
 # Simple-Multi-arm-bandit
-Performance of different algorithms on simple multi-arm bandit testbed
------------------------------------------------------------README----------------------------------------------------
----------------------------------------------------------------------------------------------------------------------
+Implementation of the multi-arm bandit testbed to compare the performance of  $\epsilon$-greedy, softmax, UCB1 and  Median Elimination Algorithm (MEA).
+----------------------------------README-----------------------
+----------------------------------------------------------------
 --------------------->For comparing all algorithms for 10 arms, set 'time_step_no = 10000' for each programm and
                       set for MEA epsilon =0.8 and delta =0.3, then after running each python programm run the 
                       plotting file 'Comparison_of _all_for_10arm.m'.
